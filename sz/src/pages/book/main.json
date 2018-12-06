@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+        "i-input": "../../../static/iView/input/index",
+        "i-tag": "../../../static/iView/tag/index"
+    }
+}

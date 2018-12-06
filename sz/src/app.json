@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/book/main",
+    "pages/my/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFF",
+    "backgroundColor":"#FFFFCC",
+    "navigationBarTitleText": "朝雨札记",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar":{
+    "borderStyle":"white",
+    "list":[{
+      "pagePath":"pages/index/main",
+      "text":"发现",
+      "iconPath":"static/images/tab/classic.png",
+      "selectedIconPath":"static/images/tab/classic@highlight.png"
+    },{
+      "pagePath":"pages/book/main",
+      "text":"书城",
+      "iconPath":"static/images/tab/book.png",
+      "selectedIconPath":"static/images/tab/book@highlight.png"
+    },{
+      "pagePath":"pages/my/main",
+      "text":"我",
+      "iconPath":"static/images/tab/my.png",
+      "selectedIconPath":"static/images/tab/my@highlight.png"
+    }]
+  }
+}

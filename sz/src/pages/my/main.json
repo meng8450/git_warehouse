@@ -1,0 +1,9 @@
+{
+"usingComponents": {
+    "i-avatar": "../../../static/iView/avatar/index",
+    "i-button": "../../../static/iView/button/index",
+    "i-icon": "../../../static/iView/icon/index",
+    "i-cell-group": "../../../static/iView/cell-group/index",
+    "i-cell": "../../../static/iView/cell/index"
+  }
+}
